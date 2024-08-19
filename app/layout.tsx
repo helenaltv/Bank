@@ -30,7 +30,7 @@ export default function RootLayout() {
         </header>
         <section className="Mitten">
           <h5>
-            Welcome to Loantema
+            Welcome to Loantema!
             <img
               className="Elipse"
               src="/images/Elipse.png"

@@ -3,6 +3,3 @@ export default function Hamburgare() {
   const meny = document.querySelector(".meny");
   document.addEventListener("DOMContentLoaded");
 }
-
-//Hamburgare.addEventListener= "click", function () {
-//meny.classList.toggle
